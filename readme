@@ -1,0 +1,2 @@
+code1中的代码主要是针对训练
+utilize_190805修复了mandible器官只能识别一侧的bug。目前能将所有医生勾画的mask写入
